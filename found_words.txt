@@ -1,0 +1,56 @@
+length[3]: 25
+aim
+amy
+ani
+any
+fag
+fan
+fay
+fig
+fin
+gay
+gin
+gym
+ian
+ina
+ing
+mai
+man
+may
+mia
+mig
+min
+nag
+nam
+nay
+yam
+
+length[4]: 15
+agni
+fain
+fang
+fnma
+gain
+gamy
+gina
+magi
+main
+mani
+many
+ming
+myna
+nagy
+yang
+
+length[5]: 3
+fagin
+gamin
+mangy
+
+length[6]: 1
+infamy
+
+length[7]: 1
+magnify
+
+total number of words: 45
